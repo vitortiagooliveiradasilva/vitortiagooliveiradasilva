@@ -8,18 +8,27 @@
 
 ##
 
-<div aling="center" style="display: inline_block"><br>
-      <img aling="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"/>
-      <img aling="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-      <img aling="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"/>
-      <img aling="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-      <img aling="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-      <img aling="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+<div style="display: inline-block;"><br>
+      <img height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"/>
+      <img height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+      <img height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"/>
+      <img height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+      <img height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+      <img height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+      <img src="https://preview.redd.it/finalmente-enfrentei-a-hornet-v0-7c2aayapddof1.jpeg?width=800&auto=webp&s=9306dff991648d54b2a067e26222b1f750445ca2" width="100" style="float: right; margin-left: 100;">
 </div>
 
 ##
 
 <div>
-  <a href = "vitortiago878@gmail.com"><img href="https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "vitortiago878@gmail.com"><img href="https://img.shields.io/badge/GroupMe-00AFF0?style=for-the-badge&logo=groupme&logoColor=white" target="_blank"></a>
+  <a href="mailto:vitortiago878@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </div>
+
+##
