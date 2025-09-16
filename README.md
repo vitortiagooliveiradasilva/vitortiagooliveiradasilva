@@ -2,8 +2,8 @@
 
 <div>
   <a href= "https://beacons.ai/vitortiagooliveiradasilva" >
-  <img aling="center" height= "200cm" src="https://github-readme-stats.vercel.app/api?username=vitortiagooliveiradasilva&show_icons=true&theme=dracula"/>
-  <img aling="center" height="200cm" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitortiagooliveiradasilva&layout=compact&langs_count=16&theme=dracula"/>
+  <img aling="center" height= "182cm" src="https://github-readme-stats.vercel.app/api?username=vitortiagooliveiradasilva&show_icons=true&theme=dracula"/>
+  <img aling="center" height="182cm" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitortiagooliveiradasilva&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ##
