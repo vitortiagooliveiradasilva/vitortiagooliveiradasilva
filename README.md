@@ -1,4 +1,4 @@
-## Opa! Eu me chamo Vitor tiago, sou um GameDev ind iniciante é eu estou começando no mercado de trabalho.
+## Opa! Eu me chamo Vitor tiago, sou um GameDev ind iniciante é eu estodu estundado pro mercador de trabalho ind.
 
 <div>
   <a href= "https://beacons.ai/vitortiagooliveiradasilva" >
